@@ -41,8 +41,10 @@ A full-stack web application for collecting and managing user feedback. Built wi
 ## 🚀 Project Setup
 
 ### 1. Clone the Repository
+```
 git clone https://github.com/Vikash4301/user-feedback-system
 cd user-feedback-system
+```
 
  💻 Frontend Setup
  ```
